@@ -1,2 +1,2 @@
 # myprojects
-# just a list of projects that i have done uploading in case my peers need sample code or what not
+# Here are some surface level projects that have ceased to be useful to me in particular 

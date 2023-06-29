@@ -8,7 +8,7 @@ Created on Tue Jun 27 13:41:23 2023
 import discord 
 import yfinance as yf
 
-BotToken = 'MTEyMzM0NDYxMjYwMjQxMzA4Ng.G6NkV2.Mg5iWvjQQTaFc4LNGbwc31QMhBOXJQVTDQW48A'
+BotToken = 'This is the Bot token,IE 123123123123'
 
 # Define intents
 intents = discord.Intents.default()
